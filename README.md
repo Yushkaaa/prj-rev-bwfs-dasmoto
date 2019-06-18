@@ -1,1 +1,1 @@
-# Finished codecademy intensive project: "dasmoto".
+# Finished codecademy intensive project: "dasmoto"
